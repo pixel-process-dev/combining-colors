@@ -4,7 +4,7 @@ Interactive visualization demonstrating how different sampling methods affect ou
 
 ## Live Demo
 
-[Try the app](https://your-app-url.streamlit.app) *(update after deployment)*
+[Try the app](https://combining-colors.streamlit.app/)
 
 ## Features
 
@@ -86,7 +86,6 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Author
 
-**Danny DeLorenzo**  
 [Dexterous Data](https://dexterousdata.com) | [PixelProcess](https://pixelprocess.org)
 
 ## Contributing
